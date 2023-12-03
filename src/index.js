@@ -1,6 +1,5 @@
 import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-// import Pokemon from "./pokemon-utils";
 import "./styles.css";
 
 import App from "./App";
